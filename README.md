@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KirillBrilovich
 - 👀 I’m interested in sports, programming and music :))
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on web developing
 - 📫 How to reach me - kirils.brilovich@gmail.com
 
